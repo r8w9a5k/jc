@@ -19,6 +19,7 @@ body {
   background: #99d6ff;
   overflow: hidden;
 }
+
 #canvas2 {
   position:fixed; 
   top:0;
